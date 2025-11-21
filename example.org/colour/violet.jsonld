@@ -3,7 +3,7 @@
   "type": "Concept",
   "prefLabel": {
     "en": "violet",
-    "de": "Violett"
+    "de": "Violett test"
   },
   "altLabel": {
     "en": [
@@ -62,6 +62,10 @@
     },
     "description": {
       "@id": "dct:description",
+      "@container": "@language"
+    },
+    "license": {
+      "@id": "dct:license",
       "@container": "@language"
     },
     "issued": {
